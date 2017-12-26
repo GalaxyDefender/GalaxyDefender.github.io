@@ -14,7 +14,7 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <h1>Hello almal!</h1>
+        <h1>Hello almal! HELLO</h1>
         <a href="<?php echo "Client Address Book/index.php" ?>">Client Address Book</a>
     </body>
 </html>
